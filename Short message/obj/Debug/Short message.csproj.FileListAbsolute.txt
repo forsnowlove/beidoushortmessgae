@@ -1,0 +1,38 @@
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\Short message\Short message\bin\Debug\Short message.exe.config
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\Short message\Short message\bin\Debug\Short message.exe
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\Short message\Short message\bin\Debug\Short message.pdb
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\Short message\Short message\bin\Debug\LEDLib.dll
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\Short message\Short message\obj\Debug\Short_message.Form1.resources
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\Short message\Short message\obj\Debug\Short_message.Properties.Resources.resources
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\Short message\Short message\obj\Debug\Short message.csproj.GenerateResource.Cache
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\Short message\Short message\obj\Debug\Short message.exe
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\Short message\Short message\obj\Debug\Short message.pdb
+C:\Users\Administrator\Documents\WeChat Files\rzw1520455809\FileStorage\File\2019-03\Short message\Short message\bin\Debug\Short message.exe.config
+C:\Users\Administrator\Documents\WeChat Files\rzw1520455809\FileStorage\File\2019-03\Short message\Short message\obj\Debug\Short message.exe
+C:\Users\Administrator\Documents\WeChat Files\rzw1520455809\FileStorage\File\2019-03\Short message\Short message\obj\Debug\Short message.pdb
+C:\Users\Administrator\Documents\WeChat Files\rzw1520455809\FileStorage\File\2019-03\Short message\Short message\bin\Debug\Short message.exe
+C:\Users\Administrator\Documents\WeChat Files\rzw1520455809\FileStorage\File\2019-03\Short message\Short message\bin\Debug\Short message.pdb
+C:\Users\Administrator\Documents\WeChat Files\rzw1520455809\FileStorage\File\2019-03\Short message\Short message\obj\Debug\Short message.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Documents\WeChat Files\rzw1520455809\FileStorage\File\2019-03\Short message\Short message\obj\Debug\Short_message.Form1.resources
+C:\Users\Administrator\Documents\WeChat Files\rzw1520455809\FileStorage\File\2019-03\Short message\Short message\obj\Debug\Short_message.Properties.Resources.resources
+C:\Users\Administrator\Documents\WeChat Files\rzw1520455809\FileStorage\File\2019-03\Short message\Short message\obj\Debug\Short message.csproj.GenerateResource.Cache
+C:\Users\lenovo\Desktop\Short message\Short message\bin\Debug\Short message.exe.config
+C:\Users\lenovo\Desktop\Short message\Short message\obj\Debug\Short message.exe
+C:\Users\lenovo\Desktop\Short message\Short message\obj\Debug\Short message.pdb
+C:\Users\lenovo\Desktop\Short message\Short message\bin\Debug\Short message.exe
+C:\Users\lenovo\Desktop\Short message\Short message\bin\Debug\Short message.pdb
+C:\Users\lenovo\Desktop\Short message\Short message\obj\Debug\Short message.csprojResolveAssemblyReference.cache
+C:\Users\lenovo\Desktop\Short message\Short message\obj\Debug\Short_message.Form1.resources
+C:\Users\lenovo\Desktop\Short message\Short message\obj\Debug\Short_message.Properties.Resources.resources
+C:\Users\lenovo\Desktop\Short message\Short message\obj\Debug\Short message.csproj.GenerateResource.Cache
+C:\Users\liuqi.NMDS\Desktop\DTN\Short message\Short message\Short message\bin\Debug\Short message.exe.config
+C:\Users\liuqi.NMDS\Desktop\DTN\Short message\Short message\Short message\bin\Debug\Short message.exe
+C:\Users\liuqi.NMDS\Desktop\DTN\Short message\Short message\Short message\bin\Debug\Short message.pdb
+C:\Users\liuqi.NMDS\Desktop\DTN\Short message\Short message\Short message\obj\Debug\Short message.csprojAssemblyReference.cache
+C:\Users\liuqi.NMDS\Desktop\DTN\Short message\Short message\Short message\obj\Debug\Short_message.Form1.resources
+C:\Users\liuqi.NMDS\Desktop\DTN\Short message\Short message\Short message\obj\Debug\Short_message.Properties.Resources.resources
+C:\Users\liuqi.NMDS\Desktop\DTN\Short message\Short message\Short message\obj\Debug\Short message.csproj.GenerateResource.cache
+C:\Users\liuqi.NMDS\Desktop\DTN\Short message\Short message\Short message\obj\Debug\Short message.csproj.CoreCompileInputs.cache
+C:\Users\liuqi.NMDS\Desktop\DTN\Short message\Short message\Short message\obj\Debug\Short message.csproj.CopyComplete
+C:\Users\liuqi.NMDS\Desktop\DTN\Short message\Short message\Short message\obj\Debug\Short message.exe
+C:\Users\liuqi.NMDS\Desktop\DTN\Short message\Short message\Short message\obj\Debug\Short message.pdb
